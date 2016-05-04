@@ -4,5 +4,5 @@ Git has a mutable index called stage.
 <<<<<<< HEAD
 Creating a new branch is quick and simple.
 =======
-Creating a new branch is quick and simple2
+Creating a new branch is quick and simple3
 >>>>>>> featurel
